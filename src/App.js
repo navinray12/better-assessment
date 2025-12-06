@@ -7,7 +7,7 @@ function App() {
 
       
       <h1 className="text-Black text-4xl font-bold mb-10 drop-shadow-lg tracking-wide">
-        Task Manager + Comments
+        Task & Comments Manager
       </h1>
 
       
